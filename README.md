@@ -2,8 +2,6 @@
 
 > Individual Project for App Brewery Bootcamp. A one-page website that allows people to sign up to a mailing list.
 
-<img src="https://drive.google.com/uc?export=view&id=1t21kSXehkOs8SiBNjxG4iGX0AM5HSw6q" alt="application screenshot"/>
-
 ### Topics covered: 
 - working with APIs, 
 - API integration, 
@@ -12,7 +10,7 @@
 
 ### Status: inactive, complete
 
-[boiling-retreat-65697.herokuapp.com/](boiling-retreat-65697.herokuapp.com/)
+[https://boiling-retreat-65697.herokuapp.com/](https://boiling-retreat-65697.herokuapp.com/)
 ___
 ## Table of Contents
 - [Description](#description)
