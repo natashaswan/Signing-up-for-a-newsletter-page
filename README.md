@@ -8,7 +8,7 @@
 - communicating with an external server (POSTing data)
 - website deployment.
 
-### Status: inactive (API disabled), complete
+### Status: inactive (API disabled), project complete
 
 [https://boiling-retreat-65697.herokuapp.com/](https://boiling-retreat-65697.herokuapp.com/)
 ___
