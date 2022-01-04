@@ -1,3 +1,29 @@
-# Signing-up-for-a-newsletter-page
-The page uses Mailchimp API and Node.js and Express.
+# Sign up for a newsletter web page and API Application
+
+> Individual Project for App Brewery Bootcamp. A one-page website that allows people to sign up to a mailing list.
 <img src="https://drive.google.com/uc?export=view&id=1t21kSXehkOs8SiBNjxG4iGX0AM5HSw6q" alt="application screenshot"/>
+### Topics covered: 
+- working with APIs, 
+- API integration, 
+- communicating with an external server (POSTing data)
+- website deployment.
+
+### Status: inactive, complete
+
+[boiling-retreat-65697.herokuapp.com/](boiling-retreat-65697.herokuapp.com/)
+___
+## Table of Contents
+- [Description](#description)
+- [Technologies used](#technologies-used)
+
+---
+## Description
+Simple one page website with powerful back end functionality that allows people to sign up to a mailing list. If signing up was successful the user is taken to the Success page, and if it was not - to a Failure page. The data that the user enterns on the website gets sent to our list on Mailchimp and a new subscriber gets added. The user data can be retrieved from my Mailchilmp account.
+
+
+## Technologies used
+1. Mailchimp API
+2. HTML
+3. CSS
+4. Node.js and Express.
+5. Heroku Server
