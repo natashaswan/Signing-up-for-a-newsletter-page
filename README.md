@@ -1,7 +1,9 @@
 # Sign up for a newsletter web page and API Application
 
 > Individual Project for App Brewery Bootcamp. A one-page website that allows people to sign up to a mailing list.
+
 <img src="https://drive.google.com/uc?export=view&id=1t21kSXehkOs8SiBNjxG4iGX0AM5HSw6q" alt="application screenshot"/>
+
 ### Topics covered: 
 - working with APIs, 
 - API integration, 
