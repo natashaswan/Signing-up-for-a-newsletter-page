@@ -23,9 +23,9 @@ Simple one page website with powerful back end functionality that allows people 
 
 ## Technologies used
 1. Mailchimp API
-2. HTML
-3. CSS
-4. Node.js and Express.
+2. HTML&CSS
+3. NPM
+4. Node.js and Express
 5. Heroku Server
 
 <img src="https://drive.google.com/uc?export=view&id=1fVXLcWQIsEPkldC2CYZm5Jz7hbQCIgX4" alt="website screenshot" />
